@@ -1,4 +1,4 @@
-# CX1115 Group Project : Movie Genre Classifier
+# CX1115 Group Project : Movie Genre Classifier using Multi-label classification
 
 ---
 
@@ -38,7 +38,6 @@ Are we able to predict the genre of a movie just with its keywords?
 ### Evaluation Methods
 
 - F1 scores
-  ![F1score](https://hasty.ai/media/pages/docs/mp-wiki/metrics/f-beta-score/55c23cb495-1654855011/snimok-ekrana-2022-06-10-v-12-51-17.webp)
 - Hamming loss
 
 ### Final Score
