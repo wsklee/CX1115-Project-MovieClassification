@@ -1,4 +1,4 @@
-# CX1115 Group Project : Movie Genre Classifier using Multi-label classification
+# CX1115 Group Project : Movie Genre Prediction Model using Multi-label classification
 
 ---
 
