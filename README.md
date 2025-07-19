@@ -42,9 +42,10 @@ Are we able to predict the genre of a movie just with its keywords?
 
 ### Final Score
 
-![f1score](https://user-images.githubusercontent.com/64521593/209938073-8b67be6e-968d-495f-a20c-15b5432c383a.png)
+![f1score](https://github.com/user-attachments/assets/91abfa1c-1acb-473f-95c9-5b1eb89a368a)
 
-![hammingloss](https://user-images.githubusercontent.com/64521593/209938152-c32b85c2-a003-495f-9437-966957cacf32.png)
+![hammingloss](https://github.com/user-attachments/assets/da1d5a10-981c-4311-8fb2-2c2ebed3be96)
+
 
 ### Prediction Example
 
